@@ -24,5 +24,25 @@ namespace GraphicCreator
         {
             InitializeComponent();
         }
+
+        private void _buttonDeviceSearch_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void _buttonStarRead_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void _buttonStopRead_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void _buttonSaveState_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
